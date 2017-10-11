@@ -1,7 +1,5 @@
-import * as React from 'react'
-import StyledComponents, { StyledComponentClass } from 'styled-components'
-const styled = StyledComponents
-
+import React from 'react'
+import styled, { StyledComponentClass } from 'styled-components'
 
 const Input = styled.input`
 width: 100px;
